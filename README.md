@@ -34,7 +34,7 @@ An operating system kernel written by Rust.
 
 * #### [环境配置](./Document/环境配置.md)
 
-* #### [上板运行](Document\上板运行.md) 
+* #### [上板运行](./Document/上板运行.md) 
 
 
 
