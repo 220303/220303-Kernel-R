@@ -2,7 +2,7 @@
 
 
 
-![logo](T:/ELCO/Computer Science/Operating System/220303's Kernel R/Document/Images_Videos/项目封面.jpg)
+![logo](./Document/Images_Videos/项目封面.jpg)
 
 
 
